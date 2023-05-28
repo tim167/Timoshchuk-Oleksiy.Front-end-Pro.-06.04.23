@@ -1,0 +1,15 @@
+.internet-magazine {
+  display: flex;
+}
+.categories {
+  width: 300px;
+}
+
+.products {
+  width: 300px;
+}
+
+.product-info {
+  width: 300px;
+}
+
